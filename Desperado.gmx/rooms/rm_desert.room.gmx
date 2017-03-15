@@ -72,6 +72,7 @@
     <instance objName="obj_life_controller" x="64" y="0" name="inst_4597A289" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_rock_0" x="4480" y="3744" name="inst_ACAAE6EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_rock_0" x="4672" y="3520" name="inst_B79EAA50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pause" x="96" y="0" name="inst_2DC491D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="Tileset" x="4576" y="3808" w="32" h="32" xo="0" yo="0" id="10000001" name="inst_9EB5716A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
