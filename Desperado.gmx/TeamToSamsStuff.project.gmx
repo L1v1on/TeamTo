@@ -6,7 +6,12 @@
   <NewExtensions>
     <extension index="0">extensions\Free 16 32x32 pixelart tiles</extension>
   </NewExtensions>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sou_explosion0</sound>
+    <sound>sound\sou_explosion1</sound>
+    <sound>sound\sou_gun_shot</sound>
+    <sound>sound\sou_hit</sound>
+  </sounds>
   <sprites name="sprites">
     <sprites name="enemy_sprites">
       <sprite>sprites\spr_enemy_idle</sprite>
