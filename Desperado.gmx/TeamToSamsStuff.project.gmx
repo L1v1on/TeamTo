@@ -11,6 +11,9 @@
     <sound>sound\sou_explosion1</sound>
     <sound>sound\sou_gun_shot</sound>
     <sound>sound\sou_hit</sound>
+    <sound>sound\sou_smoking_gun</sound>
+    <sound>sound\sou_anamalie</sound>
+    <sound>sound\sou_hyperfun</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="enemy_sprites">
