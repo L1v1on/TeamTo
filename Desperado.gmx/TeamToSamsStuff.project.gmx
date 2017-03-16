@@ -91,6 +91,7 @@
       <sprite>sprites\spr_life</sprite>
       <sprite>sprites\spr_menu_arrow</sprite>
     </sprites>
+    <sprite>sprites\spr_spawner</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background2</background>
@@ -166,10 +167,12 @@
     <object>objects\obj_shield</object>
     <object>objects\obj_signpost</object>
     <object>objects\obj_tnt_pickup</object>
+    <object>objects\obj_suicide_enemy</object>
     <object>objects\obj_main_menu</object>
     <object>objects\obj_npc</object>
     <object>objects\obj_pause</object>
     <object>objects\obj_boss_one</object>
+    <object>objects\obj_timed_spawn_suicide</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main_menu</room>
