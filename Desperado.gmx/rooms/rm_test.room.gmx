@@ -105,7 +105,7 @@
     <instance objName="obj_rock_0" x="4352" y="2816" name="inst_B236A3A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_rock_0" x="4352" y="2880" name="inst_2981E882" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_rock_0" x="4352" y="2944" name="inst_98C8CCE0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-<<<<<<< HEAD
+ HEAD
     <instance objName="obj_rock_0" x="3584" y="3200" name="inst_1771C324" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_rock_0" x="3648" y="3200" name="inst_F0607ECD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_rock_0" x="3712" y="3200" name="inst_7ED21317" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -125,7 +125,7 @@
     <instance objName="obj_rock_0" x="4128" y="2976" name="inst_4F9CAA69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_rock_0" x="4096" y="2624" name="inst_DA855AB7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_rock_0" x="3680" y="2624" name="inst_FF8EAC07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-=======
+
     <instance objName="obj_suicide_enemy" x="4928" y="3456" name="inst_6D37A684" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_timed_spawn_suicide" x="3648" y="2624" name="inst_BE0EC7C4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
 >>>>>>> origin/master
