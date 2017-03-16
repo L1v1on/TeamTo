@@ -128,7 +128,7 @@
 
     <instance objName="obj_suicide_enemy" x="4928" y="3456" name="inst_6D37A684" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_timed_spawn_suicide" x="3648" y="2624" name="inst_BE0EC7C4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
->>>>>>> origin/master
+ origin/master
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
