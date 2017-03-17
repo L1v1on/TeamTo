@@ -123,6 +123,7 @@
     <background>background\tile16</background>
     <background>background\bg_sand_test</background>
     <background>background\Tileset</background>
+    <background>background\bg_title</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
