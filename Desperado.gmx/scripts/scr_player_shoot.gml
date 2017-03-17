@@ -32,5 +32,5 @@ if(key_shoot && global.ammo > 0)
 }
 if(key_shoot && global.ammo <= 0)
 {
-    //play audio split sound
+    audio_play_sound(sou_gun_empty, 0, false);
 }
