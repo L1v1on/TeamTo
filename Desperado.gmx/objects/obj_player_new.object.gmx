@@ -242,6 +242,7 @@ if(key_inventory)
             <kind>1</kind>
             <string>if(key_action)
 {
+    audio_play_sound(sou_heal2, 0, false);
     global.hp = 100;
 }
 </string>

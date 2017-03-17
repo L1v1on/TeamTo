@@ -25,7 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if(global.ammo &lt;= 0)
+            <string>audio_play_sound(sou_pick_up1, 0, false);
+if(global.ammo &lt;= 0)
 {
     global.ammo = 0;
 }

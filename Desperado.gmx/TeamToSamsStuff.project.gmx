@@ -15,6 +15,8 @@
     <sound>sound\sou_anamalie</sound>
     <sound>sound\sou_hyperfun</sound>
     <sound>sound\sou_gun_empty</sound>
+    <sound>sound\sou_heal2</sound>
+    <sound>sound\sou_pick_up1</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="enemy_sprites">

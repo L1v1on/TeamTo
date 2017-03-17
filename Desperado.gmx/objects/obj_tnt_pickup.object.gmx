@@ -35,6 +35,7 @@ Gun = 2
 Dynamite = 3
 Lasso = 4
 */
+audio_play_sound(sou_pick_up1, 0, false);
 scr_item_pickup(3,object_get_sprite(obj_tnt_pickup),1);
 </string>
           </argument>
