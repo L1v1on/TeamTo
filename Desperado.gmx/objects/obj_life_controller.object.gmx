@@ -78,6 +78,7 @@ pc = global.hp/global.maxhp*100;
 draw_healthbar(view_xview+8,view_yview+32,view_xview+72,view_yview+48,pc,c_black,c_red,c_green,0,true,true);
 draw_sprite(spr_gun_pickup, 0, view_xview+32, view_yview+72);
 draw_set_color(c_black);
+draw_set_font(fnt_game_text);
 draw_text(view_xview+56, view_yview+72, global.ammo);
 </string>
           </argument>
