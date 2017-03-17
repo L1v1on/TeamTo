@@ -129,6 +129,9 @@
     <instance objName="obj_ammo_pickup" x="4448" y="3488" name="inst_FB50D6DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ammo_pickup" x="4768" y="3424" name="inst_54DD2676" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ammo_pickup" x="4576" y="3712" name="inst_EAE70C9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_water_barrel" x="4192" y="3616" name="inst_9CA381F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_cactus" x="4192" y="3808" name="inst_B4B5B195" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_tree_trunk" x="4320" y="3744" name="inst_E26E30CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
