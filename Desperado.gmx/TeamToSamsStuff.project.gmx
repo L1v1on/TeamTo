@@ -124,6 +124,8 @@
     <background>background\bg_sand_test</background>
     <background>background\Tileset</background>
     <background>background\bg_title</background>
+    <background>background\bg_tileset_walls2</background>
+    <background>background\bg_tileset_walls1</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
