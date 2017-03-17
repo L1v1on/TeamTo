@@ -178,6 +178,7 @@
     <object>objects\obj_boss_one</object>
     <object>objects\obj_timed_spawn_suicide</object>
     <object>objects\obj_boss_one_spawner</object>
+    <object>objects\obj_ammo_pickup</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main_menu</room>
