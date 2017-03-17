@@ -76,6 +76,9 @@
             <string>var pc;
 pc = global.hp/global.maxhp*100;
 draw_healthbar(view_xview+8,view_yview+32,view_xview+72,view_yview+48,pc,c_black,c_red,c_green,0,true,true);
+//draw box
+draw_set_color(c_black);
+draw_text(view_xview+48, view_yview+72, global.ammo);
 </string>
           </argument>
         </arguments>

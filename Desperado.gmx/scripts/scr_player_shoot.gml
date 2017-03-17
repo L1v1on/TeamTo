@@ -1,5 +1,6 @@
 if(key_shoot && global.ammo > 0) 
 {
+    global.ammo -= 1;
     alarm[0] = .1 * room_speed;
     audio_play_sound(sou_gun_shot, 0, false);
     instance_create(x + lenx, y + leny, obj_bullet);
@@ -28,4 +29,8 @@ if(key_shoot && global.ammo > 0)
     else if(shootdir>292.5&&shootdir<330){
         image_index = 7; //Face lower right
     }
+}
+if(key_shoot && global.ammo <= 0)
+{
+    //play audio split sound
 }
