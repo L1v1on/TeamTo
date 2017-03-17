@@ -156,6 +156,7 @@
         <object>objects\obj_message_boss_second_phase</object>
         <object>objects\obj_message_boss_reloading</object>
         <object>objects\obj_message_boss_defeated</object>
+        <object>objects\obj_message_npc</object>
       </objects>
     </objects>
     <object>objects\obj_breakable_crate_dynamite</object>
