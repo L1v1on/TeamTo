@@ -29,6 +29,7 @@
 speed= 4;
 
 state = states.normal;
+bouncecount=0;
 </string>
           </argument>
         </arguments>
@@ -101,6 +102,7 @@ state = states.normal;
             image_index = bulletcount;
         }
     }
+    
     
     break;
     case states.slow:

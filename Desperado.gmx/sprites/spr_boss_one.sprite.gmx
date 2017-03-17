@@ -3,13 +3,13 @@
   <type>0</type>
   <xorig>32</xorig>
   <yorigin>32</yorigin>
-  <colkind>0</colkind>
+  <colkind>1</colkind>
   <coltolerance>0</coltolerance>
-  <sepmasks>-1</sepmasks>
+  <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>3</bbox_left>
-  <bbox_right>60</bbox_right>
-  <bbox_top>2</bbox_top>
+  <bbox_left>13</bbox_left>
+  <bbox_right>55</bbox_right>
+  <bbox_top>12</bbox_top>
   <bbox_bottom>61</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
@@ -22,5 +22,7 @@
   <frames>
     <frame index="0">images\spr_boss_one_0.png</frame>
     <frame index="1">images\spr_boss_one_1.png</frame>
+    <frame index="2">images\spr_boss_one_2.png</frame>
+    <frame index="3">images\spr_boss_one_3.png</frame>
   </frames>
 </sprite>

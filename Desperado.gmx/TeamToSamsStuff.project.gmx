@@ -147,6 +147,9 @@
         <object>objects\obj_message_tutorial_inventory</object>
         <object>objects\obj_message_tutorial_throw_dynamite</object>
         <object>objects\obj_message_tutorial_test</object>
+        <object>objects\obj_message_boss_second_phase</object>
+        <object>objects\obj_message_boss_reloading</object>
+        <object>objects\obj_message_boss_defeated</object>
       </objects>
     </objects>
     <object>objects\obj_breakable_crate_dynamite</object>
@@ -173,6 +176,7 @@
     <object>objects\obj_pause</object>
     <object>objects\obj_boss_one</object>
     <object>objects\obj_timed_spawn_suicide</object>
+    <object>objects\obj_boss_one_spawner</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main_menu</room>
