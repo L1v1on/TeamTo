@@ -95,6 +95,7 @@
       <sprite>sprites\spr_menu_arrow</sprite>
     </sprites>
     <sprite>sprites\spr_spawner</sprite>
+    <sprite>sprites\spr_boss_two</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background2</background>
@@ -186,6 +187,8 @@
     <object>objects\obj_npc</object>
     <object>objects\obj_pause</object>
     <object>objects\obj_boss_one</object>
+    <object>objects\obj_boss_two</object>
+    <object>objects\obj_boss2_life_controller</object>
     <object>objects\obj_timed_spawn_suicide</object>
     <object>objects\obj_boss_one_spawner</object>
     <object>objects\obj_ammo_pickup</object>
