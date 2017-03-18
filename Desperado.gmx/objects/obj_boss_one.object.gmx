@@ -28,7 +28,6 @@
             <string>bosshealth = 200;
 bosstalk = 1;
 bossfinaltalk=1;
-
 enum bossactions
 {
     phase1,
@@ -60,7 +59,9 @@ instance_create(view_xview,view_yview,obj_boss_life_controller);
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>switch(bossaction){
+            <string>if( distance_to_object(obj_player_new) &lt;= 500)
+{
+switch(bossaction){
     case bossactions.phase1:
         image_angle= point_direction(x,y,obj_player_new.x,obj_player_new.y)+90;
         if(random(30)&gt;=29){
@@ -116,9 +117,11 @@ instance_create(view_xview,view_yview,obj_boss_life_controller);
         }
         bossfinaltalk+=1;
         if(bosshealth&lt;=-20){
+            global.boss -= 1;
             instance_destroy();
         }
     break;
+}
 }
 </string>
           </argument>

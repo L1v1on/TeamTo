@@ -141,6 +141,9 @@
     <script>scripts\scr_player_moving.gml</script>
     <script>scripts\scr_player_input.gml</script>
     <script>scripts\scr_player_shoot.gml</script>
+    <script>scripts\scr_enemy_shoot.gml</script>
+    <script>scripts\scr_enemy_idle.gml</script>
+    <script>scripts\scr_enemy_move.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\fnt_game_text</font>
@@ -189,6 +192,7 @@
     <object>objects\obj_water_barrel</object>
     <object>objects\obj_cactus</object>
     <object>objects\obj_tree_trunk</object>
+    <object>objects\obj_norm_enemy_spawner</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main_menu</room>
