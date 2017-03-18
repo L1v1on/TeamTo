@@ -96,6 +96,7 @@
     </sprites>
     <sprite>sprites\spr_spawner</sprite>
     <sprite>sprites\spr_boss_two</sprite>
+    <sprite>sprites\spr_boss_bullets</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background2</background>
@@ -196,6 +197,8 @@
     <object>objects\obj_cactus</object>
     <object>objects\obj_tree_trunk</object>
     <object>objects\obj_norm_enemy_spawner</object>
+    <object>objects\obj_message_interact</object>
+    <object>objects\obj_boss_bullet</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main_menu</room>

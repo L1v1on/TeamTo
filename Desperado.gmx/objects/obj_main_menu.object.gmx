@@ -26,8 +26,8 @@
           <argument>
             <kind>1</kind>
             <string>menu[0] = "Start";
-menu[1] = "Test";
-menu[2] = "Quit";
+menu[1] = "Quit";
+//menu[2] = "Quit";
 space = 64; //Space between menu items
 mpos = 0; //Menu position
 </string>
