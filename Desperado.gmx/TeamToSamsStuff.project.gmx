@@ -193,6 +193,7 @@
     <object>objects\obj_cactus</object>
     <object>objects\obj_tree_trunk</object>
     <object>objects\obj_norm_enemy_spawner</object>
+    <object>objects\obj_invis_block</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main_menu</room>
