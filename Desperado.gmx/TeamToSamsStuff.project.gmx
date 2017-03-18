@@ -192,6 +192,7 @@
     <object>objects\obj_water_barrel</object>
     <object>objects\obj_cactus</object>
     <object>objects\obj_tree_trunk</object>
+    <object>objects\obj_norm_enemy_spawner</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main_menu</room>
