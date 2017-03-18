@@ -197,8 +197,12 @@
     <object>objects\obj_cactus</object>
     <object>objects\obj_tree_trunk</object>
     <object>objects\obj_norm_enemy_spawner</object>
+ HEAD
     <object>objects\obj_message_interact</object>
     <object>objects\obj_boss_bullet</object>
+
+    <object>objects\obj_invis_block</object>
+ origin/master
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main_menu</room>
