@@ -233,7 +233,6 @@ global.boss = 4;</code>
     <instance objName="obj_rock_0" x="8352" y="736" name="inst_2FB62F53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_rock_0" x="8288" y="736" name="inst_F6EA3448" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_rock_0" x="8064" y="736" name="inst_313D6051" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_boss_one_spawner" x="8096" y="288" name="inst_A34C649C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_cactus" x="8288" y="480" name="inst_A729ABA2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_cactus" x="7968" y="384" name="inst_EED0F35A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_cactus" x="8064" y="544" name="inst_16E2E654" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1212,6 +1211,7 @@ global.boss = 4;</code>
     <instance objName="obj_invis_block" x="-64" y="672" name="inst_A59F6C6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_invis_block" x="-32" y="640" name="inst_C1396859" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_invis_block" x="-32" y="672" name="inst_2CDC9A11" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_boss_two" x="8096" y="256" name="inst_332CC220" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_building_tile" x="4416" y="2912" w="64" h="64" xo="0" yo="0" id="10000030" name="inst_1847E9F5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

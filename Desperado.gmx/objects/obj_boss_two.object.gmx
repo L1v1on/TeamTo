@@ -117,6 +117,7 @@ case boss2actions.phase3:
     }
     global.shootangle++;
     if(global.boss2hp&lt;=0){
+        global.boss -=1;
         instance_destroy();
     }
     break;
