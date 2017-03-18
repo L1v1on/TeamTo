@@ -33,7 +33,6 @@
       <sprite>sprites\spr_enemy_old</sprite>
       <sprite>sprites\spr_snake_unfinished</sprite>
       <sprite>sprites\spr_boss_one</sprite>
-      <sprite>sprites\spr_boss_two</sprite>
     </sprites>
     <sprites name="environment_sprites">
       <sprite>sprites\spr_rock_0</sprite>
@@ -96,7 +95,6 @@
       <sprite>sprites\spr_menu_arrow</sprite>
     </sprites>
     <sprite>sprites\spr_spawner</sprite>
-    <sprite>sprites\spr_boss_bullet</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background2</background>
@@ -174,7 +172,6 @@
     <object>objects\obj_lasso_pickup</object>
     <object>objects\obj_life_controller</object>
     <object>objects\obj_boss_life_controller</object>
-    <object>objects\obj_boss2_life_controller</object>
     <object>objects\obj_player_new</object>
     <object>objects\obj_rock_0</object>
     <object>objects\obj_rock_2</object>
@@ -192,8 +189,6 @@
     <object>objects\obj_water_barrel</object>
     <object>objects\obj_cactus</object>
     <object>objects\obj_tree_trunk</object>
-    <object>objects\obj_boss_two</object>
-    <object>objects\obj_boss_bullet</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main_menu</room>
